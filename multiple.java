@@ -8,3 +8,6 @@ public class multiple {
         System.out.println(c);
     }
 }
+
+/* Output:
+1620*/
